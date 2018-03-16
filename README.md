@@ -6,7 +6,7 @@ GET TOKEN :
 - `Google Chrome`
 - `http://101.255.95.249:6969`
 -
-Cara Install Bot Vipro :
+Cara Install Bot ReyPro :
 ------
 Di C9 :
 - Ketik -> `sudo apt-get update`
@@ -19,9 +19,9 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
-- Ketik -> `cd vipro2`
-- Ketik -> `python vipro.py`
+- Ketik -> `git clone https://github.com/Ryan199700000/ReyPro'
+- Ketik -> `cd ReyPro`
+- Ketik -> `python rey.py`
 
 Di Termux :
 - Ketik -> `pkg update`
@@ -34,24 +34,24 @@ Di Termux :
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
-- Ketik -> `cd vipro2`
-- Ketik -> `python2 vipro.py`
+- Ketik -> `git clone https://github.com/Ryan199700000/ReyPro`
+- Ketik -> `cd ReyPro`
+- Ketik -> `python2 rey.py`
 
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- Ketik -> `cd vipro2`
-- Ketik -> `python vipro.py`
+- Ketik -> `cd ReyPro`
+- Ketik -> `python rey.py`
 
 Di Termux :
-- Ketik -> `cd vipro2`
-- Ketik -> `python2 vipro.py`
+- Ketik -> `cd ReyPro`
+- Ketik -> `python2 rey.py`
 
 
-Credit By@ Vipro.
+Credit By@ ReyPro.
 ------
-- `Add My ID LINE : gjxvipro`
+- `Add My ID LINE : s.k.9.7`
 
 Thx To :
 ------
