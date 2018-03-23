@@ -12,7 +12,7 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 ryan = LINETCR.LINE()
 #ryan.login(qr=True)
-ryan.login(token='ErZTJZ35hZxUib4y1cz8./xAA3piZkDNk7C2fd2YUQa.6VhsLGliwQ9vbCGIXOxkqYtJEbREyqaqksUeiy69Js4=')
+ryan.login(token='ErZTJZ35hZxUib4y1c./xAA3piZkDNk7C2fd2YUQa.6VhsLGliwQ9vbCGIXOxkqYtJEbREyqaqksUeiy69Js4=')
 ryan.loginResult()
 print "ReyPro-Login Success\n\n=====[Sukses Login]====="
 
